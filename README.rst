@@ -28,10 +28,6 @@ Usage
     $ flask_ext_migrate --help
     usage: flask_ext_migrate <INPUT_SOURCE>
 
-    A source code migration tool for converting extension imports.
-    --------------------------------------------------------------------------
-    https://github.com/pocoo/flask-ext-migrate
-
     required arguments:
       <INPUT_SOURCE>     Either a single file or directory to be recursively converted
 
